@@ -9,7 +9,7 @@ The following is a list of caDNAno designs that can currently be found in this r
 - PMID 22950811 - DNA origami delivery system for cancer therapy with tunable release properties
     - Zhao, Y.-X., Shaw, A., Zeng, X., Benson, E., Nyström, A. M., & Högberg, B. (2012). DNA origami delivery system for cancer therapy with tunable release properties. ACS Nano, 6(10), 8684–8691. https://doi.org/10.1021/nn3022662
 
-- PMID 24351090 - DNA origami compliant nanostructures with tunable mechanical properties
+- PMID 24351090 - DNA origami-compliant nanostructures with tunable mechanical properties
     - Zhou, L., Marras, A. E., Su, H.-J., & Castro, C. E. (2014). DNA Origami Compliant Nanostructures with Tunable Mechanical Properties. ACS Nano, 8(1), 27–34. https://doi.org/10.1021/nn405408g
 
 - PMID 24532395 - DNA origami structures directly assembled from intact bacteriophages
@@ -36,6 +36,9 @@ The following is a list of caDNAno designs that can currently be found in this r
 - PMID 29431737 - A DNA nanorobot functions as a cancer therapeutic in response to a molecular trigger in vivo
     - Li, S., Jiang, Q., Liu, S., Zhang, Y., Tian, Y., Song, C., Wang, J., Zou, Y., Anderson, G. J., Han, J.-Y., Chang, Y., Liu, Y., Zhang, C., Chen, L., Zhou, G., Nie, G., Yan, H., Ding, B., & Zhao, Y. (2018). A DNA nanorobot functions as a cancer therapeutic in response to a molecular trigger in vivo. Nature Biotechnology, 36(3), 258–264. https://doi.org/10.1038/nbt.4071
 
+- PMID 30216608 - Pharmacophore nanoarrays on DNA origami substrates as a single-molecule assay for fragment-based drug discovery
+    - Kielar, C., Reddavide, F. V., Tubbenhauer, S., Cui, M., Xu, X., Grundmeier, G., Zhang, Y., & Keller, A. (2018). Pharmacophore Nanoarrays on DNA Origami Substrates as a Single-Molecule Assay for Fragment-Based Drug Discovery. Angewandte Chemie (International Ed. in English), 57(45), 14873–14877. https://doi.org/10.1002/anie.201806778
+
 - PMID 30288887 - A tailored DNA nanoplatform for synergistic RNAi-/chemotherapy of multidrug-resistant tumors
     - Liu, J., Song, L., Liu, S., Zhao, S., Jiang, Q., & Ding, B. (2018). A Tailored DNA Nanoplatform for Synergistic RNAi-/Chemotherapy of Multidrug-Resistant Tumors. Angewandte Chemie (International Ed. in English), 57(47), 15486–15490. https://doi.org/10.1002/anie.201809452
 
@@ -45,7 +48,7 @@ The following is a list of caDNAno designs that can currently be found in this r
 - PMID 32573062 - An intelligent DNA nanorobot for autonomous anticoagulation
     - Yang, L., Zhao, Y., Xu, X., Xu, K., Zhang, M., Huang, K., Kang, H., Lin, H.-C., Yang, Y., & Han, D. (2020). An Intelligent DNA Nanorobot for Autonomous Anticoagulation. Angewandte Chemie (International Ed. in English), 59(40), 17697–17704. https://doi.org/10.1002/anie.202007962
 
-- PMID 32623634 - Design and simulataion of a DNA origami nanopore for large cargoes
+- PMID 32623634 - Design and simulation of a DNA origami nanopore for large cargoes
     - Khosravi, R., Ghasemi, R. H., & Soheilifard, R. (2020). Design and Simulation of a DNA Origami Nanopore for Large Cargoes. Molecular Biotechnology, 62(9), 423–432. https://doi.org/10.1007/s12033-020-00261-z
 
 - PMID 33089613 - A tubular DNA nanodevice as a siRNA/chemo-drug co-delivery vehicle for combined cancer therapy
@@ -85,11 +88,11 @@ The following is a list of caDNAno designs that can currently be found in this r
     - Sun, Y., Sun, J., Xiao, M., Lai, W., Li, L., Fan, C., & Pei, H. (2022). DNA origami-based artificial antigen-presenting cells for adoptive T cell therapy. Science Advances, 8(48), eadd1106. https://doi.org/10.1126/sciadv.add1106
 
 ## List of Other caDNAno Designs
-- Transfoldable DNA origami Miura folding tecnique-based structures from Tohoku University's Team Sendai during BIOMOD 2018
+- Transfoldable DNA origami Miura folding technique-based structures from Tohoku University's Team Sendai during BIOMOD 2018
     - Tohoku University, Molecular Robotics Laboratory (2018). DNA Transfolder: Team Sendai 2018 - Miura Folding. DNA Transfolder | Team Sendai 2018.  https://biomodteamsendai2018.bitbucket.io/wiki/index.html 
 - Practice designs for very commonly used structures that are used as references. This includes a triangle, tetrahedron, bowtie, and Rothemund's rectangle.
     - Rothemund P. W. (2006). Folding DNA to create nanoscale shapes and patterns. Nature, 440(7082), 297–302. https://doi.org/10.1038/nature04586
 
 ## Citation of caDNAno
-This repository would not be possible without the help of Shawn Douglas and his lab at UCSF. The following is the citation to caDNAno. All designs in this repository uses the v2 version of caDNAno, which is currently still being updated as of this readme post.
+This repository would not be possible without the help of Shawn Douglas and his lab at UCSF, who created such a fundamental piece of software used for DNA origami structural designing. The following is the citation to caDNAno. All designs in this repository use the 2nd version of caDNAno, which is currently still being updated as of this readme post.
 - Douglas, S. M., Marblestone, A. H., Teerapittayanon, S., Vazquez, A., Church, G. M., & Shih, W. M. (2009). Rapid prototyping of 3D DNA-origami shapes with caDNAno. Nucleic Acids Research, 37(15), 5001–5006. https://doi.org/10.1093/nar/gkp436
