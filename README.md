@@ -36,6 +36,9 @@ The following is a list of caDNAno designs that can currently be found in this r
 - PMID 29431737 - A DNA nanorobot functions as a cancer therapeutic in response to a molecular trigger in vivo
     - Li, S., Jiang, Q., Liu, S., Zhang, Y., Tian, Y., Song, C., Wang, J., Zou, Y., Anderson, G. J., Han, J.-Y., Chang, Y., Liu, Y., Zhang, C., Chen, L., Zhou, G., Nie, G., Yan, H., Ding, B., & Zhao, Y. (2018). A DNA nanorobot functions as a cancer therapeutic in response to a molecular trigger in vivo. Nature Biotechnology, 36(3), 258–264. https://doi.org/10.1038/nbt.4071
 
+- PMID 30216608 - Pharmacophore nanoarrays on DNA origami substrates as a single-molecule assay for fragment-based drug discovery
+    - Kielar, C., Reddavide, F. V., Tubbenhauer, S., Cui, M., Xu, X., Grundmeier, G., Zhang, Y., & Keller, A. (2018). Pharmacophore Nanoarrays on DNA Origami Substrates as a Single-Molecule Assay for Fragment-Based Drug Discovery. Angewandte Chemie (International Ed. in English), 57(45), 14873–14877. https://doi.org/10.1002/anie.201806778
+
 - PMID 30288887 - A tailored DNA nanoplatform for synergistic RNAi-/chemotherapy of multidrug-resistant tumors
     - Liu, J., Song, L., Liu, S., Zhao, S., Jiang, Q., & Ding, B. (2018). A Tailored DNA Nanoplatform for Synergistic RNAi-/Chemotherapy of Multidrug-Resistant Tumors. Angewandte Chemie (International Ed. in English), 57(47), 15486–15490. https://doi.org/10.1002/anie.201809452
 
