@@ -1,6 +1,8 @@
 # The caDNAno Repository
 This is a repository of caDNAno designs that have been recreated for usage alongside my research at the Shenzhen Lansi Institute of A.I. in Medicine. Each design is saved in the original caDNAno v2 JSON format and can only be opened with [caDNAno](https://cadnano.org/) or a similar program.
 
+Please feel free to let me know of any errors or designs you'd like recreated. I'm happy to continually expand upon this repository!
+
 ## List of caDNAno Designs from Published Research Articles
 The following is a list of caDNAno designs that can currently be found in this repository, sorted by PubMed ID number and listed with the name of the research article the design was originally found in and its associated APA citation.
 - PMID 22092186 - Cellular immunostimulation by CpG-sequence-coated DNA origami structures
