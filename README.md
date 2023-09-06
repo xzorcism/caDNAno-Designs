@@ -53,6 +53,9 @@ The following is a list of caDNAno designs that can currently be found in this r
 - PMID 32623634 - Design and simulation of a DNA origami nanopore for large cargoes
     - Khosravi, R., Ghasemi, R. H., & Soheilifard, R. (2020). Design and Simulation of a DNA Origami Nanopore for Large Cargoes. Molecular Biotechnology, 62(9), 423–432. https://doi.org/10.1007/s12033-020-00261-z
 
+- PMID 32873796 - Rational design of DNA nanostructures for single molecule biosensing
+    - Raveendran, M., Lee, A. J., Sharma, R., Wälti, C., & Actis, P. (2020). Rational design of DNA nanostructures for single molecule biosensing. Nature Communications, 11(1), Article 1. https://doi.org/10.1038/s41467-020-18132-1
+
 - PMID 33089613 - A tubular DNA nanodevice as a siRNA/chemo-drug co-delivery vehicle for combined cancer therapy
     - Wang, Z., Song, L., Liu, Q., Tian, R., Shang, Y., Liu, F., Liu, S., Zhao, S., Han, Z., Sun, J., Jiang, Q., & Ding, B. (2021). A Tubular DNA Nanodevice as a siRNA/Chemo-Drug Co-delivery Vehicle for Combined Cancer Therapy. Angewandte Chemie (International Ed. in English), 60(5), 2594–2598. https://doi.org/10.1002/anie.202009842
 
@@ -88,6 +91,9 @@ The following is a list of caDNAno designs that can currently be found in this r
 
 - PMID 36459554 - DNA origami-based artificial antigen-presenting cells for adoptive T cell therapy
     - Sun, Y., Sun, J., Xiao, M., Lai, W., Li, L., Fan, C., & Pei, H. (2022). DNA origami-based artificial antigen-presenting cells for adoptive T cell therapy. Science Advances, 8(48), eadd1106. https://doi.org/10.1126/sciadv.add1106
+
+- PMID 36917482 - Selective recognition of the amyloid marker single thioflavin T using DNA origami-based gold nanobipyramid nanoantennas
+    - Kaur, C., Kaur, V., Rai, S., Sharma, M., & Sen, T. (2023). Selective recognition of the amyloid marker single thioflavin T using DNA origami-based gold nanobipyramid nanoantennas. Nanoscale, 15(13), 617–6178. https://doi.org/10.1039/d2nr06389a
 
 ## List of Other caDNAno Designs
 - Transfoldable DNA origami Miura folding technique-based structures from Tohoku University's Team Sendai during BIOMOD 2018
